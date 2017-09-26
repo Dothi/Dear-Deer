@@ -1,0 +1,14 @@
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define DISPLAY_TIME_SPLASH_SCENE 3
+#define TRANSITION_TIME 0.5
+#define SCALE_RATIO 64.0
+
+
+
+
+
+
+
+#endif 
